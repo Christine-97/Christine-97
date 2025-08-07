@@ -9,72 +9,54 @@ Christine-97/Christine-97 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+# 👋 Hi, I'm Christine Mary Polly
 
-
-# 👩‍💻 Christine Polly Paul
-
-**Experienced Data Analyst | Tech Blogger | Data Storyteller**  
-Helping businesses turn raw data into strategic insights with SQL, Power BI, Python & SAS  
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christine-mary-polly)
+Welcome to my GitHub!  
+I'm an experienced **Data Analyst** with a passion for transforming data into meaningful insights and visual stories. My work spans across SQL, Python, Power BI, Pandas, and modern data storytelling through blogs and visual dashboards.
 
 ---
 
-### 🔍 About Me
+### 📊 About Me
 
-I'm Christine Polly Paul, a passionate and experienced **Data Analyst** with a strong foundation in **data wrangling, visualization, and reporting**. I specialize in:
-
-- 📊 Business Intelligence using **Power BI**  
-- 🧮 Statistical Analysis using **Python (Pandas, NumPy)**  
-- 📑 Advanced SQL for complex queries and data integrity  
-- 🧠 Conditional logic and data pipelines in **SAS**
-
-I also love breaking down technical concepts through writing, helping others learn with clarity and confidence.
+- 💼 Currently working as a Data Analyst
+- 🔍 Specializing in data wrangling, EDA, dashboarding, and business reporting
+- 🛠️ Skilled in: SQL | Python (Pandas, NumPy, Matplotlib) | Power BI | Excel
+- 🧠 Learning: Generative AI & Advanced Data Science
+- ✍️ Blogger on Medium: writing about data, tools, and career advice
 
 ---
 
-### ✍️ Tech Blogger on Medium  
-**_"Demystifying Tech & Coding"_**  
-📚 [Visit My Blog](https://medium.com/@christinepollypaul)
+### ✍️ Latest Blog Posts on Medium
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-| 🗓️ Date | ✨ Title |
-|--------|--------|
-| Aug 2025 | [Dot Product vs Matrix Multiplication in NumPy](https://medium.com/@christinepollypaul) |
-| Jan 2025 | [DataFrame vs Dictionary in Python](https://medium.com/@christinepollypaul) |
-| Jan 2025 | [Mastering SQL Joins with NULL Conditions](https://medium.com/@christinepollypaul) |
-| Dec 2024 | [Becoming a Data Analyst in 2025: Step-by-Step Guide](https://medium.com/@christinepollypaul) |
-| Oct 2024 | [Using SWITCH in SAS for Efficient Logic](https://medium.com/@christinepollypaul) |
-| Oct 2024 | [Creating a Calendar Table in Power BI](https://medium.com/@christinepollypaul) |
+_(Auto-updated from [Medium](https://medium.com/@christine_polly_paul))_
 
 ---
 
-### 💼 Experience Highlights
+### 📌 Featured Projects
 
-- ✅ Built dynamic dashboards for business stakeholders using **Power BI & DAX**
-- ✅ Conducted data cleaning, transformation, and automation pipelines with **Python & SQL**
-- ✅ Delivered actionable insights that impacted marketing and operations
-- ✅ Published in-depth technical articles with thousands of reads
-
----
-
-### ⚙️ Tools & Tech Stack
-
-`Python` · `Pandas` · `NumPy` · `Power BI` · `DAX` · `SQL` · `SAS` · `Excel` · `Jupyter Notebook` · `Git & GitHub`
+- 📁 [Heart Attack Risk Data Analysis](https://github.com/Christine-97/Data_analysis_with_jupyter)
+- 📈 Power BI Dashboards and Reports *(coming soon)*
+- 📊 [Step-by-step Data Analysis Plan](https://github.com/Christine-97/Data_analysis_with_jupyter/blob/main/step-by-step-data-analysis-plan.ipynb)
 
 ---
 
-### 📂 Featured Repositories
+### 🔗 Connect With Me
 
-- 📊 `powerbi-dashboards`: Dynamic BI reports with DAX measures  
-- 🧹 `data-wrangling-pandas`: Cleaning and transforming real-world datasets  
-- 📈 `sql-analysis`: Complex SQL queries and use cases (joins, subqueries, CTEs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristineMaryPolly-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/christine-mary-polly)  
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat-square&logo=medium)](https://medium.com/@christine_polly_paul)
+
+---
+
+### 📬 Contact
+
+📧 Email: christine.polly@example.com  
+🌐 Portfolio (Notion or Personal Website): _[Add link if available]_
 
 ---
 
-### 🤝 Let's Connect
+_💡 Want to collaborate on a data project? Feel free to reach out!_
 
-💬 I'm open to speaking engagements, writing opportunities, or data collaborations.  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/christine-mary-polly)
-
----
 
 _“Data is only as powerful as the story you tell with it.”_
