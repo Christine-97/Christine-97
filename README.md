@@ -56,8 +56,8 @@ _(Auto-updated from [Medium](https://medium.com/@christine_polly_paul))_
 
 ### 📬 Contact
 
-📧 Email: christinemarypolly97@gmail.com 
-🌐 Linkedin: _[(https://www.linkedin.com/in/christine-mary-polly/)]_
+📧 Email: christinemarypolly97@gmail.com   
+🌐 Linkedin: https://www.linkedin.com/in/christine-mary-polly/
 
 ---
 
