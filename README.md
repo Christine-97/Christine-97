@@ -9,7 +9,7 @@ Christine-97/Christine-97 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I'm Christine Mary Polly
+# 👋 Hi, I'm Christine Polly Paul
 
 Welcome to my GitHub!  
 I'm an experienced **Data Analyst** with a passion for transforming data into meaningful insights and visual stories. My work spans across SQL, Python, Power BI, Pandas, and modern data storytelling through blogs and visual dashboards.
