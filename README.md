@@ -56,12 +56,9 @@ _(Auto-updated from [Medium](https://medium.com/@christine_polly_paul))_
 
 ### 📬 Contact
 
-📧 Email: christine.polly@example.com  
-🌐 Portfolio (Notion or Personal Website): _[Add link if available]_
+📧 Email: christinemarypolly97@gmail.com 
+🌐 Linkedin: _[(https://www.linkedin.com/in/christine-mary-polly/)]_
 
 ---
-
-_💡 Want to collaborate on a data project? Feel free to reach out!_
-
 
 _“Data is only as powerful as the story you tell with it.”_
