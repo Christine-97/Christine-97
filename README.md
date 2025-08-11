@@ -41,10 +41,10 @@ _(Auto-updated from [Medium](https://medium.com/@christine_polly_paul))_
 
 ### 📌 Featured Projects
 
+- 📊 [Heart Attack Risk Levels — Data Analysis Project](https://github.com/Christine-97/Data_analysis_with_jupyter/blob/main/step-by-step-data-analysis.ipynb)
 - 📁 [Heart Attack Risk Data Analysis](https://github.com/Christine-97/Data_analysis_with_jupyter)
 - 📈 Power BI Dashboards and Reports *(coming soon)*
-- 📊 [Step-by-step Data Analysis Plan](https://github.com/Christine-97/Data_analysis_with_jupyter/blob/main/step-by-step-data-analysis-plan.ipynb)
-
+  
 ---
 
 ### 🔗 Connect With Me
