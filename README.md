@@ -22,11 +22,11 @@ I'm an experienced **Data Analyst** with a passion for transforming data into me
 
 ### ✍️ Latest Blog Posts on Medium
 <!-- BLOG-POST-LIST:START -->
-- [Most Power BI users never realize filters aren’t final. Here’s the proof.](https://blog.stackademic.com/most-power-bi-users-never-realize-filters-arent-final-here-s-the-proof-8cdde0fd6ff0?source=rss-16f3679a57c1------2)
-- [Dot Product vs Matrix Multiplication in NumPy: Practical Tips for Mastering Matrix Math in NumPy](https://python.plainenglish.io/dot-product-vs-matrix-multiplication-in-numpy-practical-tips-for-mastering-matrix-math-in-numpy-170d28ba9591?source=rss-16f3679a57c1------2)
-- [DataFrame vs Dictionary: What Every Python Dev Needs to Master for Efficient Data Handling.](https://python.plainenglish.io/dataframe-vs-dictionary-understanding-the-differences-in-python-programming-e77599ce1853?source=rss-16f3679a57c1------2)
-- [Mastering SQL Joins with NULL Conditions](https://medium.com/@christine_polly_paul/mastering-sql-joins-with-null-conditions-e7ad42d38d59?source=rss-16f3679a57c1------2)
-- [Your Ultimate Guide to Becoming a Data Analyst in 2025 : A Step-by-Step Roadmap to Master Data…](https://python.plainenglish.io/your-ultimate-guide-to-becoming-a-data-analyst-in-2025-a-step-by-step-roadmap-to-master-data-3a62322322df?source=rss-16f3679a57c1------2)
+- [5 Data Science Skills Nobody Told You to Learn &lpar;But Every Recruiter Wants&rpar;](https://medium.com/@christine_polly_paul/5-data-science-skills-nobody-told-you-to-learn-but-every-recruiter-wants-119cbcd5be94?source=rss-16f3679a57c1------2)
+- [6 Data Science Mistakes That Can Kill Your Career Before It Starts](https://medium.com/@christine_polly_paul/6-data-science-mistakes-that-can-kill-your-career-before-it-starts-9c6fb0d9b35d?source=rss-16f3679a57c1------2)
+- [The Truth About Data Science: What No One Tells Beginners](https://ai.plainenglish.io/the-truth-about-data-science-what-no-one-tells-beginners-da7fd69aeb79?source=rss-16f3679a57c1------2)
+- [7 Data Science Myths That Are Wasting Your Time](https://medium.com/@christine_polly_paul/7-data-science-myths-that-are-wasting-your-time-982b37c14860?source=rss-16f3679a57c1------2)
+- [10 Power BI Secrets Microsoft Won’t Tell You](https://blog.stackademic.com/10-power-bi-secrets-microsoft-wont-tell-you-050b8ed9eb70?source=rss-16f3679a57c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 _(Auto-updated from [Medium](https://medium.com/@christine_polly_paul))_
